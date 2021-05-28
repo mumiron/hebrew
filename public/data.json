@@ -1,0 +1,462 @@
+{
+  "Числа": [
+    {
+      "phrase": "אֶחָד",
+      "transcription": "эхАд",
+      "translation": "Один"
+    },
+
+    {
+      "phrase": "אַחַת",
+      "transcription": "ахАт",
+      "translation": "Одна"
+    },
+
+    {
+      "phrase": "שניים",
+      "transcription": "шнАйим",
+      "translation": "Два"
+    },
+
+    {
+      "phrase": "שתיים",
+      "transcription": "шнАйим",
+      "translation": "Две"
+    },
+
+    {
+      "phrase": "שלושה",
+      "transcription": "шлошА",
+      "translation": "Три (м.р.)"
+    },
+
+    {
+      "phrase": "שלוש",
+      "transcription": "шалОш",
+      "translation": "Три (ж.р.)"
+    },
+
+    {
+      "phrase": "אַרְבָּעָה",
+      "transcription": "арбаа",
+      "translation": "Четыре (м.р.)"
+    },
+
+    {
+      "phrase": "אַרְבַּע",
+      "transcription": "арба",
+      "translation": "Четыре (ж.р.)"
+    },
+
+    {
+      "phrase": "חמישה",
+      "transcription": "хамишА",
+      "translation": "Пять (м.р.)"
+    },
+
+    {
+      "phrase": "חָמֵש",
+      "transcription": "хамЕш",
+      "translation": "Пять (ж.р.)"
+    },
+
+    {
+      "phrase": "שישה",
+      "transcription": "шишА",
+      "translation": "Шесть (м.р.)"
+    },
+
+    {
+      "phrase": "שֵש",
+      "transcription": "шЕш",
+      "translation": "Шесть (ж.р.)"
+    },
+
+    {
+      "phrase": "שִׁבְעָה",
+      "transcription": "шивъа",
+      "translation": "Семь (м.р.)"
+    },
+
+    {
+      "phrase": "שֶׁבַע",
+      "transcription": "шЕва",
+      "translation": "Семь (ж.р.)"
+    },
+
+    {
+      "phrase": "שְׁמוֹנָה",
+      "transcription": "шмонА",
+      "translation": "Восемь (м.р.)"
+    },
+
+    {
+      "phrase": "שְׁמוֹנֶה",
+      "transcription": "шмона",
+      "translation": "Восемь (ж.р.)"
+    },
+
+    {
+      "phrase": "תִּשְׁעָה",
+      "transcription": "тишъа",
+      "translation": "Девять (м.р.)"
+    },
+
+    {
+      "phrase": "תֵּשַׁעה",
+      "transcription": "тЕша",
+      "translation": "Девять (ж.р.)"
+    },
+
+    {
+      "phrase": "עֲשַׂרָה",
+      "transcription": "асарА",
+      "translation": "Десять (м.р.)"
+    },
+
+    {
+      "phrase": "עֶשֶׂר",
+      "transcription": "Эсер",
+      "translation": "Десять (ж.р.)"
+    }
+
+  ],
+  "Семья и родственники": [
+    {
+      "phrase": "אַבָּא",
+      "transcription": "Аба",
+      "translation": "Отец, папа"
+    },
+
+    {
+      "phrase": "אִימָּא",
+      "transcription": "Има",
+      "translation": "Мать, мама"
+    },
+
+    {
+      "phrase": "אָחוֹת",
+      "transcription": "ахОт",
+      "translation": "Сестра"
+    },
+
+    {
+      "phrase": "אָח",
+      "transcription": "Ах",
+      "translation": "Брат"
+    },
+
+    {
+      "phrase": "סַבָּא",
+      "transcription": "сАба",
+      "translation": "Дедушка, дед"
+    },
+
+    {
+      "phrase": "סָבְתָא",
+      "transcription": "сАвта",
+      "translation": "Бабушка"
+    }
+  ],
+
+  "Цвета": [
+    {
+      "phrase": "לָבָן",
+      "transcription": "лавАн",
+      "translation": "Белый"
+    },
+
+    {
+      "phrase": "לְבָנָה",
+      "transcription": "леванА",
+      "translation": "Белая"
+    },
+
+    {
+      "phrase": "שחור",
+      "transcription": "шахОр",
+      "translation": "Черный"
+    },
+
+    {
+      "phrase": "שחורה",
+      "transcription": "шхорА",
+      "translation": "Черная"
+    },
+
+    {
+      "phrase": "אפור",
+      "transcription": "афОр",
+      "translation": "Серый"
+    },
+
+    {
+      "phrase": "אפורה",
+      "transcription": "афорА",
+      "translation": "Серая"
+    },
+
+    {
+      "phrase": "אדום",
+      "transcription": "адОм",
+      "translation": "Красный"
+    },
+
+    {
+      "phrase": "אדומה",
+      "transcription": "адумА",
+      "translation": "Красная"
+    },
+
+    {
+      "phrase": "כתום",
+      "transcription": "катОм",
+      "translation": "Оранжевый"
+    },
+
+    {
+      "phrase": "כתומה",
+      "transcription": "ктумА",
+      "translation": "Оранжевая"
+    },
+
+    {
+      "phrase": "צהוב",
+      "transcription": "цаhОв",
+      "translation": "Желтый"
+    },
+
+    {
+      "phrase": "צהובה",
+      "transcription": "цеhубА",
+      "translation": "Желтая"
+    },
+
+    {
+      "phrase": " ירוק",
+      "transcription": "ярОк",
+      "translation": "Зеленый"
+    },
+
+    {
+      "phrase": "ירוקה",
+      "transcription": "йерукА",
+      "translation": "Зеленая"
+    },
+
+    {
+      "phrase": "תְּכֶלֶת",
+      "transcription": "тхЕлет",
+      "translation": "Голубой"
+    },
+
+    {
+      "phrase": "כחול",
+      "transcription": "кахОль",
+      "translation": "Синий"
+    },
+
+    {
+      "phrase": "כחולה",
+      "transcription": "кхулА",
+      "translation": "Синяя"
+    },
+
+    {
+      "phrase": "סגול",
+      "transcription": "сагОль",
+      "translation": "Фиолетовый"
+    },
+
+    {
+      "phrase": "סגולה",
+      "transcription": "сгулА",
+      "translation": "Фиолетовая"
+    }
+  ],
+  "Приветствия, общие выражения": [
+    {
+      "phrase": "שלום",
+      "transcription": "шалОм",
+      "translation": "Здравствуйте, привет"
+    },
+
+    {
+      "phrase": "יום טוב",
+      "transcription": "йОм тОв",
+      "translation": "Добрый день"
+    },
+
+    {
+      "phrase": "בוקר טוב",
+      "transcription": "бОкер тОв",
+      "translation": "Доброе утро"
+    },
+    {
+      "phrase": "ערב טוב",
+      "transcription": "Эрев тОв",
+      "translation": "Добрый вечер"
+    },
+    {
+      "phrase": "לילה טוב",
+      "transcription": "лАйла тОв",
+      "translation": "Спокойной ночи"
+    },
+
+    {
+      "phrase": "הרבה תודות",
+      "transcription": "тодА рабА",
+      "translation": "Большое спасибо"
+    },
+
+    {
+      "phrase": "מצטער",
+      "transcription": "слихА",
+      "translation": "Извините"
+    },
+
+    {
+      "phrase": "מה שלומך",
+      "transcription": "ма нИшма?",
+      "translation": "Как дела?"
+    },
+
+    {
+      "phrase": "בבקשה",
+      "transcription": "бевакашА",
+      "translation": "Пожалуйста"
+    },
+
+    {
+      "phrase": "כן",
+      "transcription": "кен",
+      "translation": "Да"
+    },
+
+    {
+      "phrase": "לֹא",
+      "transcription": "ло",
+      "translation": "Нет"
+    }
+  ],
+  "Магазины": [
+    {
+      "phrase": "כמה זה עולה",
+      "transcription": "кАма зе олЕ?",
+      "translation": "Сколько это стоит?"
+    },
+
+    {
+      "phrase": "אני אקנה זאת",
+      "transcription": "Ани икне эт зе",
+      "translation": "Я куплю это"
+    },
+
+    {
+      "phrase": "אני רעב",
+      "transcription": "анИ раЭв",
+      "translation": "Я голоден"
+    },
+    {
+      "phrase": "אני צמא",
+      "transcription": "анИ цамЭ",
+      "translation": "Я хочу пить"
+    },
+    {
+      "phrase": "יש לך",
+      "transcription": "еш лАхем",
+      "translation": "У вас есть..?"
+    },
+
+    {
+      "phrase": "ארוחת בוקר",
+      "transcription": "арухАт бОкер",
+      "translation": "Завтрак"
+    },
+
+    {
+      "phrase": "אֲרוּחַת עֶרֶב",
+      "transcription": "арухАт цаораИм",
+      "translation": "Обед"
+    },
+
+    {
+      "phrase": "אֲרוּחַת עֶרֶב",
+      "transcription": "арухАт-Эрев",
+      "translation": "Ужин"
+    },
+
+    {
+      "phrase": "מים",
+      "transcription": "мАим",
+      "translation": "Вода"
+    },
+
+    {
+      "phrase": "קפה",
+      "transcription": "кафэ",
+      "translation": "Кофе"
+    },
+
+    {
+      "phrase": "תה",
+      "transcription": "тэ",
+      "translation": "Чай"
+    }
+  ],
+
+  "Туризм": [
+    {
+      "phrase": "מה השעה?",
+      "transcription": "ма шаА?",
+      "translation": "Который час?"
+    },
+
+    {
+      "phrase": "כמה הכרטיס עולה?",
+      "transcription": "камА оле кАртис?",
+      "translation": "Сколько стоит билет?"
+    },
+
+    {
+      "phrase": "כמה הכרטיס עולה?",
+      "transcription": "эйх леагИа ле..?",
+      "translation": "Как пройти/проехать к..?"
+    },
+    {
+      "phrase": "רכבת",
+      "transcription": "ракевет",
+      "translation": "Поезд"
+    },
+    {
+      "phrase": "אוֹטוֹבּוּס",
+      "transcription": "отобус",
+      "translation": "Автобус"
+    },
+
+    {
+      "phrase": "אוֹטוֹבּוּס",
+      "transcription": "сде-теУфа",
+      "translation": "Аэропорт"
+    },
+
+    {
+      "phrase": "תחנת רכבת",
+      "transcription": "таханат-ракевет",
+      "translation": "Вокзал"
+    },
+
+    {
+      "phrase": "מלון",
+      "transcription": "бейт малон",
+      "translation": "Гостиница"
+    },
+
+    {
+      "phrase": "איפה השירותים?",
+      "transcription": "эйфо шэрутим?",
+      "translation": "Где туалет?"
+    }
+
+  ]
+}
